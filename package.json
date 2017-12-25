@@ -1,0 +1,36 @@
+{
+  "name": "chimera-cli",
+  "version": "0.0.1",
+  "description": "A tool for generating chimera-ui boilerplate.",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnacondaY/chimera-cli.git"
+  },
+  "keywords": [
+    "react",
+    "tool",
+    "chimera-ui",
+    "boilerplate"
+  ],
+  "author": "AnacondaY",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AnacondaY/chimera-cli/issues"
+  },
+  "homepage": "https://github.com/AnacondaY/chimera-cli#readme",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "commander": "^2.12.2"
+  },
+  "devDependencies": {
+    "eslint": "^4.14.0",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.5.1"
+  }
+}
